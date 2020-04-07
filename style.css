@@ -66,3 +66,15 @@ body {
 .calculator span.zero {
     border-radius: 0 0 0 10px;
 }
+
+.copyright {
+    position: absolute;
+    top: 90%;
+    left: 0;
+    margin: 10px;
+}
+
+.copyright .site {
+    text-decoration: none;
+    color: #03b1ff;
+}
