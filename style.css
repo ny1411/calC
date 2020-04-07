@@ -29,6 +29,7 @@ body {
     grid-column: span 4;
     height: 100px;
     text-align: right;
+    border-radius: 10px 10px 0 0;
     border: none;
 }
 
@@ -60,4 +61,8 @@ body {
 
 .calculator span.equal {
     background-color: #03b1ff;
+    border-radius: 0 0 10px 0;
+}
+.calculator span.zero {
+    border-radius: 0 0 0 10px;
 }
