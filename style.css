@@ -22,7 +22,6 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    outline: none;
 }
 
 .calculator .value {
@@ -31,6 +30,7 @@ body {
     text-align: right;
     border-radius: 10px 10px 0 0;
     border: none;
+    outline: none;
 }
 
 .calculator span {
